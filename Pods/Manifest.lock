@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.4.0)
+  - AnimatedCollectionViewLayout (0.2.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - AnimatedCollectionViewLayout
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  AnimatedCollectionViewLayout: 6f385ed7deb673af8989f5240c4b0c32c9d25276
+
+PODFILE CHECKSUM: 37f3abdba5a873db8ca3bf32a94069b04b60fa9f
+
+COCOAPODS: 1.2.1
